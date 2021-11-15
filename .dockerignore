@@ -1,0 +1,6 @@
+media
+*.pyc
+*.sqlite3
+.cache
+.sublime-project
+.vscode*

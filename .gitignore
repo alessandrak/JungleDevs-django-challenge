@@ -1,0 +1,9 @@
+app/local_settings.py
+media
+*.pyc
+*.sqlite3
+.cache
+.sublime-project
+.vscode*
+*.env
+*.env.db
