@@ -1,4 +1,4 @@
-app/local_settings.py
+app/app/local_settings.py
 media
 *.pyc
 *.sqlite3
